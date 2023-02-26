@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SECURITY_CODE = 'paradigma'
+const SECURITY_CODE = 'paradigma';
 
 function UseState({ name }) {
   const [error, setError] = React.useState(false);
